@@ -1,0 +1,34 @@
+{
+  "Workflows": [
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Invoice_Rpa_Project_State.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TotalAmount&Sequence_6",
+        "InvoiceDate&Sequence_6",
+        "Supplier&Sequence_6",
+        "InvoiceNumber&Sequence_6",
+        "dt_Results&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}
